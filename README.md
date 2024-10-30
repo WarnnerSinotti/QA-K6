@@ -64,7 +64,7 @@ pnpm install
 
 ### 4. Executando o Projeto ▶️
 
-Crie um arquivo `.env` com base no `env.example` e solicite ao time os valores corretos.
+Crie um arquivo `.env` com base no `env.example`.
 
 Para iniciar o projeto, execute:
 
@@ -80,7 +80,6 @@ Se tudo estiver correto, o projeto executará um teste simples no terminal 🚀.
 
 Este projeto esta estuturado as pastas da seguinte forma:
 
-
 -   **📄 Data**: Contém arquivos JSON e outros dados para testes em massa, garantindo que os testes sejam executados com dados consistentes e variados.
 
 -   **📜 Functions**: Armazena funções auxiliares para serem chamadas durante os testes, ajudando a otimizar o código e a modularizar as operações mais frequentes.
@@ -90,7 +89,6 @@ Este projeto esta estuturado as pastas da seguinte forma:
 -   **🗒️ Tests**: Contém scripts e arquivos específicos dos testes, incluindo automações e validações, para garantir que o comportamento esperado da aplicação esteja sendo validado corretamente.
 
 -   **🧰 Utils**: Armazena recursos e funções comuns a todo o projeto, como variáveis compartilhadas e funções de geração de dados (exemplo: `faker.js`), permitindo uma maior reutilização e consistência nos testes.
-
 
 ## Execução dos Testes
 
@@ -127,11 +125,10 @@ A documentação do K6 fornece orientações detalhadas sobre como utilizar a fe
 
 ## 📜 Licença
 
-- Este projeto é público, com o objetivo de compartilhar conhecimento e promover estudos. 
-- O uso do projeto é de responsabilidade do usuário. 
-- Todos os recursos utilizados são gratuitos e adequados para uso livre.
+-   Este projeto é público, com o objetivo de compartilhar conhecimento e promover estudos.
+-   O uso do projeto é de responsabilidade do usuário.
+-   Todos os recursos utilizados são gratuitos e adequados para uso livre.
 
+### 💻 QA Enginner
 
-### 💻  QA Enginner
-
-- Desenvolvido por **Warnner**
+-   Desenvolvido por **Warnner**
